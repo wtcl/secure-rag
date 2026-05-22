@@ -1,0 +1,1 @@
+This is a test document for RAG system. It contains some information about artificial intelligence and machine learning. The system should be able to retrieve this information when queried about AI or machine learning topics.
